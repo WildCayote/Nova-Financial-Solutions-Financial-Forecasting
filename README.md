@@ -14,14 +14,14 @@ The analysis involves:
 
 ## Tools Used
 
-| Tool    | Purpose                     |
-| ------- | --------------------------- |
-| DVC     | For handling data           |
-| Pandas  | For data analysis           |
-| Seaborn | For visualization           |
-| Numpy   | For numerical operations    |
-| NLTK    | For NLP and sentiment analysis |
-| statsmodels | For time-series analysis |
+| Tool        | Purpose                        |
+| ----------- | ------------------------------ |
+| DVC         | For handling data              |
+| Pandas      | For data analysis              |
+| Seaborn     | For visualization              |
+| Numpy       | For numerical operations       |
+| NLTK        | For NLP and sentiment analysis |
+| statsmodels | For time-series analysis       |
 
 ## Contributor
 
