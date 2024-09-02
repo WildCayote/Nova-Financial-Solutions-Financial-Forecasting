@@ -6,5 +6,6 @@ matplotlib
 seaborn
 nltk
 statsmodels
-pynance
+PyPortfolioOpt
 TA-Lib
+yfinance
