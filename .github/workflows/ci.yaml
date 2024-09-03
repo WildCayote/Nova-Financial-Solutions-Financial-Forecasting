@@ -22,6 +22,11 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Download and Install TA_Lib
+        run: |
+          curl -L -o TA_Lib-0.4.32-cp310-cp310-win_amd64.whl https://github.com/cgohlke/talib-build/releases/download/v0.4.32/TA_Lib-0.4.32-cp310-cp310-win_amd64.whl
+          pip install TA_Lib-0.4.32-cp310-cp310-win_amd64.whl
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
