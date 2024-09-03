@@ -10,3 +10,4 @@ PyPortfolioOpt
 TA-Lib
 yfinance
 streamlit
+plotly
